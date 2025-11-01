@@ -1,0 +1,11 @@
+# Crypto Seed Phrase Generator
+# Uses only Python standard libraries
+
+python>=3.8
+
+# Standard libraries used:
+# - secrets (cryptographic security)
+# - hashlib 
+# - unittest
+# - sys
+# - os
